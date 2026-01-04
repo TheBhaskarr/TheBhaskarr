@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Bhaskar Mishra<br><br>🎓 Student | 💻 Aspiring Software / ML Engineer  <br>🔹 Python | Machine Learning | C++ (DSA)<br><br>## 🚀 Skills<br>- Python, NumPy, Pandas, Matplotlib<br>- Machine Learning (Regression, Classification)<br>- C++ (DSA)<br>- Git & GitHub<br><br>## 📂 Projects<br>- 🔹 Weather Prediction System (ML)<br>- 🔹 Price Comparison Website (Python)<br>- 🔹 Student Result Predictor<br><br>## 📈 Current Focus (2026)<br>- DSA in C++<br>- Machine Learning Projects<br>- Job Preparation
+# Hi 👋, I'm Bhaskar Mishra<br><br>🎓 Student | 💻 Aspiring Software / ML Engineer  <br>🔹 Python | Machine Learning | C++ (DSA)<br><br> 🚀 Skills<br>- Python, NumPy, Pandas, Matplotlib<br>- Machine Learning (Regression, Classification)<br>- C++ (DSA)<br>- Git & GitHub<br><br> 📂 Projects<br>- 🔹 Weather Prediction System (ML)<br>- 🔹 Price Comparison Website (Python)<br>- 🔹 Student Result Predictor<br><br> 📈 Current Focus (2026)<br>- DSA in C++<br>- Machine Learning Projects<br>- Job Preparation
 
 
 ## 🌐 Socials:
