@@ -2,23 +2,25 @@
 
 Hi 👋, I'm **Bhaskar Mishra**
 
-🎓 Student | 💻 Aspiring Software & Machine Learning Engineer 
+🎓 Student | 💻 Aspiring Software & Machine Learning Engineer  
 🔹 Python | Machine Learning | C++ (DSA)
+
+I enjoy solving **DSA problems in C++** and building **Machine Learning projects using Python**.
 
 ---
 
 ### 🚀 Skills
-- Python, NumPy, Pandas, Matplotlib
-- Machine Learning (Regression, Classification)
-- C++ (DSA)
-- Git & GitHub
+- **Programming:** Python, C++
+- **Data & ML:** NumPy, Pandas, Matplotlib, scikit-learn
+- **Concepts:** DSA, Machine Learning (Regression, Classification)
+- **Tools:** Git & GitHub
 
 ---
 
 ### 📂 Projects
-- 🔹 Weather Prediction System (ML)
-- 🔹 Price Comparison Website (Python)
-- 🔹 Student Result Predictor
+- 🔹 **Weather Prediction System (ML)** – Forecasting using regression models  
+- 🔹 **Price Comparison Website (Python)** – Comparing product prices across platforms  
+- 🔹 **Student Result Predictor** – Performance prediction using ML  
 
 ---
 
@@ -56,6 +58,7 @@ Hi 👋, I'm **Bhaskar Mishra**
 ---
 
 ![](https://visitcount.itsvg.in/api?id=TheBhaskarr&icon=0&color=0)
+
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## Hi there 👋
