@@ -27,7 +27,7 @@ I enjoy solving **DSA problems in C++** and building **Machine Learning projects
 ### 📈 Current Focus (2026)
 - DSA in C++
 - Machine Learning Projects
-- Job Preparation
+- Solving LeetCode Hards.
 
 ---
 
