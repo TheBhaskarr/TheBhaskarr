@@ -10,10 +10,28 @@ I enjoy solving **DSA problems in C++** and building **Machine Learning projects
 ---
 
 ### 🚀 Skills
-- **Programming:** Python, C++
-- **Data & ML:** NumPy, Pandas, Matplotlib, scikit-learn
-- **Concepts:** DSA, Machine Learning (Regression, Classification)
-- **Tools:** Git & GitHub
+
+**Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+**Data Science & Machine Learning**
+<p>
+  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-35495E?style=for-the-badge&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+</p>
+
+**Tools & Version Control**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+</p>
+
+---
 
 ---
 
