@@ -1,4 +1,4 @@
-## 💫 About Me
+## About Me
 
 Hi 👋, I'm **Bhaskar Mishra**
 
@@ -9,7 +9,7 @@ I enjoy solving **DSA problems in C++** and building **Machine Learning projects
 
 ---
 
-### 🚀 Skills
+### Skills
 
 **Programming Languages**
 <p>
@@ -35,21 +35,21 @@ I enjoy solving **DSA problems in C++** and building **Machine Learning projects
 
 ---
 
-### 📂 Projects
+### Projects
 - 🔹 **Weather Prediction System (ML)** – Forecasting using regression models  
 - 🔹 **Price Comparison Website (Python)** – Comparing product prices across platforms  
 - 🔹 **Student Result Predictor** – Performance prediction using ML  
 
 ---
 
-### 📈 Current Focus (2026)
+### Current Focus (2026)
 - DSA in C++
 - Machine Learning Projects
 - Solving LeetCode Hards.
 
 ---
 
-### 🌐 Socials
+### Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/593846906346799114)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhaskarmishra2004)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bhaskarrmr)
@@ -57,7 +57,7 @@ I enjoy solving **DSA problems in C++** and building **Machine Learning projects
 
 ---
 
-### 💻 Tech Stack
+### Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
@@ -68,7 +68,7 @@ I enjoy solving **DSA problems in C++** and building **Machine Learning projects
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=TheBhaskarr&theme=dark&hide_border=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=TheBhaskarr&theme=dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBhaskarr&theme=dark&layout=compact)
