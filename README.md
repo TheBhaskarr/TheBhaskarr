@@ -36,9 +36,9 @@ I enjoy solving **DSA problems in C++** and building **Machine Learning projects
 ---
 
 ### Projects
-- 🔹 **Weather Prediction System (ML)** – Forecasting using regression models  
-- 🔹 **Price Comparison Website (Python)** – Comparing product prices across platforms  
-- 🔹 **Student Result Predictor** – Performance prediction using ML  
+- **Weather Prediction System (ML)** – Forecasting using regression models  
+- **Price Comparison Website (Python)** – Comparing product prices across platforms  
+- **Student Result Predictor** – Performance prediction using ML  
 
 ---
 
