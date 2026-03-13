@@ -2,7 +2,7 @@
 
 Hi , I'm **Bhaskar Mishra**
 
-🎓 Student | 💻 Aspiring Software & Machine Learning Engineer  
+🎓 Student | 💻 Aspiring Software & Machine Learning Engineer     
 🔹 Python | Machine Learning | C++ (DSA)
 
 I enjoy solving **DSA problems in C++** and building **Machine Learning projects using Python**.
